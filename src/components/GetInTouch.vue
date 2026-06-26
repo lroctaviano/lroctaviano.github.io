@@ -24,7 +24,7 @@
             <div class="contact-buttons-container">
                 <div class="contact-buttons">
                     <button onclick="location.href='mailto:luigioctaviano@gmail.com'" class="contact-button contact-email-button">Send Email</button>
-                    <a href="https://drive.google.com/file/d/1TrcQwgsFskHC0PFQbZIMpSOYLj0yv6Gp/view?usp=sharing" class="contact-button contact-download-button" target="_blank">View my CV</a>
+                    <a href="https://docs.google.com/document/d/1120C-juUxhZZLSFRbsrATXHJJKNcu3OrPvTMperunok/edit?usp=sharing" class="contact-button contact-download-button" target="_blank">View my CV</a>
                 </div>
             </div>
         </div>
